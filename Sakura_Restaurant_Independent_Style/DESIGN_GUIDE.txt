@@ -1,0 +1,34 @@
+SAKURA RESTAURANT — INDEPENDENT VISUAL DESIGN
+
+This version intentionally uses a new visual identity rather than the earlier pixel-art reference.
+
+Visual direction:
+- Style: contemporary editorial luxury; spacious layouts, refined typography, full-width photography and minimal ornament.
+- Palette: deep forest green #142a25, warm ivory #f5f3ed, muted sage #dce3db, antique gold #c6a16b, charcoal #202c28.
+- Fonts: Playfair Display for elegant editorial headings; DM Sans for clean body text and navigation.
+- Layout: full-bleed photographic hero, editorial story section, refined menu cards, experience section, dark gallery, video feature with a YouTube search link, reservation enquiry form and footer.
+- Responsive: navigation wraps on small screens; grids collapse for mobile; imagery and video resize.
+
+Target audience:
+Adults, couples, families and visitors interested in contemporary fine dining and Japanese-inspired seasonal cuisine.
+
+Purpose:
+Introduce Sakura Restaurant, present sample dishes, communicate the dining concept and provide contact/reservation enquiry information.
+
+CRAP principles:
+Contrast: ivory and gold text accents stand out against forest-green backgrounds.
+Repetition: consistent typography, gold accents, spacing and image treatment establish visual unity.
+Alignment: sections use a shared centred content width and aligned grid columns.
+Proximity: dish name, description and sample price are grouped; contact details and form fields are clearly organised.
+
+Technical:
+HTML5 and CSS3 only; internal navigation; responsive media queries; multiple images; video feature with a YouTube search link; reservation enquiry form. No JavaScript or backend is included.
+
+Important:
+Sakura Restaurant is fictional sample content. Menu items, prices, email, phone, location and opening hours are illustrative and should be replaced if real details are required. The form is front-end only and does not submit data.
+
+Open:
+Open index.html in a browser. Keep the css folder beside index.html. External images and fonts require internet access. The video feature opens YouTube search results in a new tab so you can choose a currently available fine-dining preparation video; this avoids displaying a broken or unavailable sample embed.
+
+Publish:
+Extract the ZIP, then upload the folder containing index.html and css to https://app.netlify.com/drop. Netlify will generate the public site URL after deployment.
